@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\./PublishService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/RieltorsService.dll">
+      <publishTime>01/03/2018 12:26:52</publishTime>
+    </File>
+    <File Include="bin/RieltorsService.pdb">
+      <publishTime>01/03/2018 12:26:52</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>01/03/2018 12:21:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/03/2018 12:26:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

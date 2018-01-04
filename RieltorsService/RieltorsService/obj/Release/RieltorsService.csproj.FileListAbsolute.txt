@@ -1,0 +1,6 @@
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\bin\RieltorsService.dll.config
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\bin\RieltorsService.dll
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\bin\RieltorsService.pdb
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Release\RieltorsService.csproj.CoreCompileInputs.cache
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Release\RieltorsService.dll
+C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Release\RieltorsService.pdb
