@@ -5,3 +5,10 @@ C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService
 C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Debug\RieltorsService.csproj.CoreCompileInputs.cache
 C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Debug\RieltorsService.dll
 C:\Users\marse\OneDrive\Рабочий стол\Риелторы\RieltorsService\RieltorsService\obj\Debug\RieltorsService.pdb
+C:\Project\RieltorsService\RieltorsService\RieltorsService\bin\RieltorsService.dll.config
+C:\Project\RieltorsService\RieltorsService\RieltorsService\bin\RieltorsService.dll
+C:\Project\RieltorsService\RieltorsService\RieltorsService\bin\RieltorsService.pdb
+C:\Project\RieltorsService\RieltorsService\RieltorsService\obj\Debug\RieltorsService.csprojResolveAssemblyReference.cache
+C:\Project\RieltorsService\RieltorsService\RieltorsService\obj\Debug\RieltorsService.csproj.CoreCompileInputs.cache
+C:\Project\RieltorsService\RieltorsService\RieltorsService\obj\Debug\RieltorsService.dll
+C:\Project\RieltorsService\RieltorsService\RieltorsService\obj\Debug\RieltorsService.pdb
